@@ -12,6 +12,9 @@ h1,h2,h3,h4,h5,h6 {
 p,a {
 	font-family: 'Imprima', 'Tahoma', sans-serif;
 }
+a {
+	color:#1a6de5;
+}
 a:hover {
 	color:#8918ff;
 }
