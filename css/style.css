@@ -124,3 +124,24 @@ hr {
 	margin-top:45px;
 	margin-bottom:20px;
 }
+span {
+	color:black;
+}
+.iconic-social-twitter:hover {
+	background-color:#10daff;
+	color: #e5fff7;
+}
+.iconic-social-facebook:hover {
+	color: #8918ff;
+	background-color:#e5fff7;
+}
+.iconic-social-tumblr:hover {
+	color: #8918ff;
+	background-color:#e5fff7;
+}
+.iconic-social-google-plus:hover {
+	color: #10daff;
+	background-color:#e5fff7;
+}
+}
+
