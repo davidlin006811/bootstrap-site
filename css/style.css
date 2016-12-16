@@ -18,9 +18,11 @@ a {
 a:hover {
 	color:#8918ff;
 }
+
 .navbar-default {
 	background-color: #bdffeb;
 	color:#030217;
+	border-bottom: 3px solid #8918ff;
 }
 .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a{
 	color:#030217;
