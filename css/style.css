@@ -46,8 +46,8 @@ font {
 	background-color: #8918ff;
 }
 .button:hover {
-	
-	background-color:#bdffeb;
+	color:#030217;
+	background-color: #e5fff7;
 }
 .button span {
 	color:#e5fff7;
