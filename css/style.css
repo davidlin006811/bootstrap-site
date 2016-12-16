@@ -143,5 +143,12 @@ span {
 	color: #10daff;
 	background-color:#e5fff7;
 }
-
+.well {
+	background-color: #10daff;
+	border-radius: 25px;
+}
+.jumbotron {
+	background-color: #10daff;
+	
+}
 
