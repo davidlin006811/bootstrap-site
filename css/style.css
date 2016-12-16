@@ -57,11 +57,16 @@ font {
 	font-size:1.819 rem;
 }
 
-
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #030217;
+}
 .navbar-toggle:hover .icon-bar{
+	background-color: #10daff;
+	
+}
+.navbar-default .navbar-header .navbar-toggle:hover,.navbar-default .navbar-header .navbar-toggle:focus {
 	background-color: #8918ff;
 }
-
 .bg-green {
 	background-color: #bdffeb;
 }
@@ -110,4 +115,12 @@ font {
 }
 .inner-margin {
 	margin-top:20px;
+}
+hr {
+	margin-top:25px;
+	border-color:#10daff;
+}
+.inner-margin1 {
+	margin-top:45px;
+	margin-bottom:20px;
 }
