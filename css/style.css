@@ -42,14 +42,22 @@ font {
 	color:#030217;
 }
 .button {
-	color:#e5fff7;
+	
 	background-color: #8918ff;
 }
 .button:hover {
-	color:#030217;
+	
 	background-color:#bdffeb;
 }
-
+.button span {
+	color:#e5fff7;
+}
+.button:hover span {
+	color:#030217;
+	}
+.glyphicon-plus hover: {
+	color:#030217;
+}
 .small-size {
 	font-size: 1.328rem;
 }
